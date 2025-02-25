@@ -5,6 +5,7 @@
   "version": "0.0.1",
   "repository":"https://github.com/mohamedfathy621/prayer_time",
   "license": "GPL-3.0",
+  "publisher": "mfathy621",
   "engines": {
     "vscode": "^1.97.0"
   },
