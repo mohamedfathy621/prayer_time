@@ -2,8 +2,8 @@
   "name": "prayer-time",
   "displayName": "prayer_time",
   "description": "an interactive prayer time reminder for remote workers",
-  "version": "0.0.1",
-  "repository":"https://github.com/mohamedfathy621/prayer_time",
+  "version": "0.1.0",
+  "repository": "https://github.com/mohamedfathy621/prayer_time",
   "license": "GPL-3.0",
   "publisher": "mfathy621",
   "engines": {
@@ -12,7 +12,9 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [ "onStartupFinished"],
+  "activationEvents": [
+    "onStartupFinished"
+  ],
   "main": "./extension.js",
   "contributes": {
     "commands": [
