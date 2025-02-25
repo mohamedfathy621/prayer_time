@@ -2,7 +2,7 @@
   "name": "prayer-reminder",
   "displayName": "prayer reminder",
   "description": "an interactive prayer time reminder for remote workers",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "repository": "https://github.com/mohamedfathy621/prayer_time",
   "license": "GPL-3.0",
   "publisher": "mfathy621",
