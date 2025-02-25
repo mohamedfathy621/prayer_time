@@ -4,6 +4,7 @@
   "description": "an interactive prayer time reminder for remote workers",
   "version": "0.0.1",
   "repository":"https://github.com/mohamedfathy621/prayer_time",
+  "license": "GPL-3.0",
   "engines": {
     "vscode": "^1.97.0"
   },
