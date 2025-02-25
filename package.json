@@ -1,6 +1,6 @@
 {
-  "name": "prayer-reminder",
-  "displayName": "prayer reminder",
+  "name": "remote-prayer-reminder",
+  "displayName": "vs code prayer reminder for remote workers",
   "description": "an interactive prayer time reminder for remote workers",
   "version": "0.2.0",
   "repository": "https://github.com/mohamedfathy621/prayer_time",
